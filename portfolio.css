@@ -166,7 +166,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://source.unsplash.com/1600x900/?Coding,Technical,programming") no-repeat center;
+    background: url("https://source.unsplash.com/1600x900/?Coding,Technical,Programming,Developer") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
